@@ -9,7 +9,7 @@ class HomeActionMethods{
      * @returns 
      */
     launchAppURL(){
-        browser.url("file:///C:/WebdriverIO/AutomationChallengeIDC/index.html");
+        browser.url("file:///C:/WebdriverIO/ApplicationURL/index.html");
         return this;
     }
 
